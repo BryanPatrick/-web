@@ -1,0 +1,19 @@
+.footer {
+    background-color: #272624;
+}
+
+.footer p {
+    color: #acadac;
+}
+
+.footer-alinhar {
+    padding-top: 37px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-alinhar ul li{
+    display: inline-flex;
+    margin-right: 15px;
+}

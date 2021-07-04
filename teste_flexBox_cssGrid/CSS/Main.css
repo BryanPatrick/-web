@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Oswald', 'sans-serif';
+}
+
+
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.coluna-100 {
+    width: 100%;
+}

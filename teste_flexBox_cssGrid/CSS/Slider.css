@@ -1,0 +1,9 @@
+
+.slider-grid {
+    height: 450px;
+}
+
+.slider-grid img{
+    height: 100%;
+    width: 100%;
+}

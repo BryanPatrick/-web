@@ -1,0 +1,35 @@
+article {
+    background-image: url('../IMG/bg-cinza.png');
+}
+
+.bg-cinza {
+    background-color: #eeeeee;
+}
+
+.conteudo-2 {
+    width: 100%;
+    float: left;
+    border: solid 1px #ccc;
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.3);
+    height: 280px;
+    width: 310px;
+    margin: 5px 15px;
+    padding: 5px;
+}
+
+.alinhar {
+    padding-top: 90px;
+}
+
+.colunas-2 {
+    width: 29%;
+}
+
+.conteudo-2 img {
+    width: 100%;
+    max-height: 50%;
+}
+
+.info {
+    color: #9a9a9a;
+}

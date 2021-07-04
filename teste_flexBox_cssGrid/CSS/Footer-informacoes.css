@@ -1,0 +1,35 @@
+
+.footer-informacoes {
+    background-color: #4f514a;
+}
+
+.ajuste {
+    padding-top: 40px;
+    float: left;
+    width: 25%;
+}
+
+.ajuste h2 {
+    color: #c0c0c0;
+}
+
+.ajuste p {
+    font-size: 14px;
+    color: #c0c0c0;
+}
+
+.ajuste a {
+    text-decoration: none;
+}
+
+.bloco-texto-1 a {
+    color: #898989;
+}
+
+.bloco-texto-4 a {
+    color: #a3a3a3;
+}
+
+.img-texto-4 img {
+    padding-right: 20px;
+}

@@ -1,0 +1,48 @@
+header {
+    grid-area: cabecalho;
+}
+
+nav {
+    grid-area: navegacao;
+}
+
+.slider-grid {
+    grid-area: slider-grid;
+}
+
+section {
+    grid-area: conteudo-1;
+}
+
+article {
+    grid-area: conteudo-2;
+}
+
+.footer-patrocinio {
+    grid-area: footer-patrocinio;
+}
+
+.footer-informacoes {
+    grid-area: footer-informacoes;
+}
+
+.footer {
+    grid-area: footer;
+}
+
+
+body {
+    display: grid;
+    min-height: 100vh; /* 100vh = ocupa toda a altura*/
+    grid-template-columns: 1fr;
+    grid-template-rows: 60px 80px 450px 500px 720px 180px 320px 90px;
+    grid-template-areas: 
+        'cabecalho'
+        'navegacao'
+        'slider-grid'
+        'conteudo-1'
+        'conteudo-2'
+        'footer-patrocinio'
+        'footer-informacoes'
+        'footer';
+}

@@ -1,0 +1,29 @@
+.texto-destaque {
+    padding-top: 60px;
+    text-align: center;
+}
+
+.texto-destaque strong {
+    color: #646464;
+}
+
+.texto-destaque h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #818181;
+}
+
+.texto-destaque p {
+    font-size: 15px;
+    color: #9a9a9a;
+}
+
+.colunas {
+    width: 31%;
+    position: relative;
+    float: left;
+}
+
+.conteudo-1 {
+    padding: 10px 10px;
+}
